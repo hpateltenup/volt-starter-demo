@@ -1,0 +1,32 @@
+@import "./assets/css/base.css";
+
+
+/* Jio theme – blue primary */
+:root.p-theme-jio {
+    --p-primary-50: #eff6ff;
+    --p-primary-100: #dbeafe;
+    --p-primary-200: #bfdbfe;
+    --p-primary-300: #93c5fd;
+    --p-primary-400: #60a5fa;
+    --p-primary-500: #3b82f6;
+    --p-primary-600: #2563eb;
+    --p-primary-700: #1d4ed8;
+    --p-primary-800: #1e40af;
+    --p-primary-900: #1e3a8a;
+    --p-primary-950: #172554;
+}
+
+/* Vodafone theme – red primary */
+:root.p-theme-vodafone {
+    --p-primary-50: #fef2f2;
+    --p-primary-100: #fee2e2;
+    --p-primary-200: #fecaca;
+    --p-primary-300: #fca5a5;
+    --p-primary-400: #f87171;
+    --p-primary-500: #ef4444;
+    --p-primary-600: #dc2626;
+    --p-primary-700: #b91c1c;
+    --p-primary-800: #991b1b;
+    --p-primary-900: #7f1d1d;
+    --p-primary-950: #450a0a;
+}
